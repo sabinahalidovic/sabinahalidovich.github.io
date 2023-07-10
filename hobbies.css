@@ -1,0 +1,70 @@
+p {
+    margin:0;
+}
+.box {
+    display: inline-block;
+    width: 460px;
+    vertical-align: top;
+}
+.biography {
+    display: inline-block;
+    width: 100px;
+    color: rgb(73, 73, 73);
+    padding-top: 25px;
+}
+
+.hobbies {
+    display:inline-block;
+    width: 100px;
+    color: brown;
+}
+
+.traveling {
+    display: inline-block;
+    width: 120px;
+    color: rgb(73, 73, 73);
+}
+.contact {
+    display: inline-block;
+    width: 120px;
+    color: rgb(73, 73, 73);
+}
+.header {
+    text-align: center;
+    color: darkcyan;
+}
+
+.text_one {
+    margin-left: 50px;
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.box {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+.back_ground2 {
+    background-color: bisque;
+    background-size:auto;
+}
+ .people {
+    margin-left: 50px;
+    display: inline-block;
+    width: 250px;
+    margin: 10;
+    background-color: white;
+    padding: 5pt;
+    border-radius: 10px;
+ }
+
+ .name {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+ }
+
+ 

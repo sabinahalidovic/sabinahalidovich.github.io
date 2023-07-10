@@ -1,0 +1,49 @@
+.biography {
+    display: inline-block;
+    width: 100px;
+    color: rgb(73, 73, 73);
+    padding-top: 25px;
+}
+
+.hobbies {
+    display:inline-block;
+    width: 100px;
+    color: rgb(73, 73, 73);
+}
+
+.traveling {
+    display: inline-block;
+    width: 120px;
+    color: brown;
+}
+.contact {
+    display: inline-block;
+    width: 120px;
+    color: rgb(73, 73, 73);
+}
+.header {
+    text-align: center;
+    color: darkcyan;
+}
+.column {
+    float: left;
+    width: 30%;
+    padding: 5px;
+  }
+  img {
+    width: 80%;
+  }	
+
+.gallery-text {
+    float: left;
+    width: 48%;
+    margin: 1%;
+    color: darkcyan;
+}
+.gallery-text p {
+    word-break: break-all;
+    color: darkcyan;
+}
+li {
+    margin-bottom: 0.5rem;
+}
